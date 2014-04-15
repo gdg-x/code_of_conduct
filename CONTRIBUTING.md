@@ -8,8 +8,6 @@ today! Here are the guidelines we'd like you to follow:
  - [Issues and Bugs](#issue)
  - [Feature Requests](#feature)
  - [Submission Guidelines](#submit)
- - [Coding Rules](#rules)
- - [Further Info](#info)
 
 ## <a name="coc"></a> Code of Conduct
 Help us keep GDG[x] open and inclusive. Please read and follow our [Code of Conduct][coc].
@@ -22,8 +20,6 @@ If you have questions about GDG[x], please direct these to the [Google+ Page][pl
 If you find a bug in the source code or a mistake in the documentation, you can help us by
 submitting an issue to our [GitHub Repository][github]. Even better you can submit a Pull Request
 with a fix.
-
-**Please see the Submission Guidelines below**.
 
 ## <a name="feature"></a> Want a Feature?
 You can request a new feature by submitting an issue to our [GitHub Repository][github].  If you
@@ -65,11 +61,7 @@ Before you submit your pull request consider the following guidelines:
      ```
 
 * Create your patch, **including appropriate test cases**.
-* Follow our [Coding Rules](#coding-rules).
-* Commit your changes using a descriptive commit message that follows our
-  [commit message conventions](#commit-message-format) and passes our commit message presubmit hook
-  `validate-commit-msg.js`. Adherence to the [commit message conventions](#commit-message-format)
-  is required because release notes are automatically generated from these messages.
+* Commit your changes using a descriptive commit message.
 
      ```shell
      git commit -a
@@ -123,31 +115,10 @@ from the main (upstream) repository:
     git pull --ff upstream master
     ```
 
-## <a name="rules"></a> Coding Rules
-To ensure consistency throughout the source code, keep these rules in mind as you are working:
-
-* With the exceptions listed below, we follow the rules contained in
-  [Google's JavaScript Style Guide][js-style-guide]:
-    * **Do not use namespaces**: Instead,  wrap the entire angular code base in an anonymous closure and
-      export our API explicitly rather than implicitly.
-    * Wrap all code at **100 characters**.
-    * Instead of complex inheritance hierarchies, we **prefer simple objects**. We use prototypical
-      inheritance only when absolutely necessary.
-    * We **love functions and closures** and, whenever possible, prefer them over objects.
-    * To write concise code that can be better minified, we **use aliases internally** that map to the
-      external API. See our existing code to see what we mean.
-    * We **don't go crazy with type annotations** for private internal APIs unless it's an internal API
-      that is used throughout AngularJS. The best guidance is to do what makes the most sense.
-
-
-## <a name="info"></a> Further Information
-You can find out more detailed information about contributing in the
-[AngularJS documentation][contributing].
 
 
 
 [coc]: https://github.com/angular/code-of-conduct/blob/master/CODE_OF_CONDUCT.md
-[commit-message-format]: https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit#
 [github]: https://github.com/gdg-x
-[pluspage]: https://google.com/+GDGProjectX
+[pluspage]: https://google.com/+GDGXProject
 [js-style-guide]: http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
