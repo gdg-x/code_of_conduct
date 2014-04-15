@@ -118,7 +118,7 @@ from the main (upstream) repository:
 
 
 
-[coc]: https://github.com/angular/code-of-conduct/blob/master/CODE_OF_CONDUCT.md
+[coc]: https://github.com/gdg-x/code_of_conduct/blob/master/CONTRIBUTING.md
 [github]: https://github.com/gdg-x
 [pluspage]: https://google.com/+GDGXProject
 [js-style-guide]: http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
