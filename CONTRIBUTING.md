@@ -122,3 +122,18 @@ from the main (upstream) repository:
 [github]: https://github.com/gdg-x
 [pluspage]: https://google.com/+GDGXProject
 [js-style-guide]: http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
+
+## <a name="members"></a> GDG[x] contributors
+Everybody is invite to dive into the code, explore, learn, add issues and send pull requests.
+
+### Teams
+Each project has a *team of contributors* that can merge pull requests. These team members should have a good understanding of the project to answer questions and comment on pull requests. These contributors are members of the corresponding github project team.
+
+One or two members are the *maintainers* of the project and publish releases. Maintainers are responsible for the road map and the state of the project in general.
+
+Maintainers are listed by name/github handle in the readme of the project.
+
+### Inactive contributors
+Contributors can retire by [leaving the github project team](https://github.com/orgs/gdg-x/teams) and [join the alumni team](https://github.com/orgs/gdg-x/teams/alumni). Alternatively, they can [leave the organisation](https://github.com/settings/organizations).
+
+Contributors who were inactive for more than a year are contacted by the project maintainers and asked to retire.
