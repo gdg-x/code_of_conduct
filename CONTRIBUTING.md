@@ -136,4 +136,4 @@ Maintainers are listed by name/github handle in the readme of the project.
 ### Inactive contributors
 Contributors can retire by [leaving the github project team](https://github.com/orgs/gdg-x/teams) and [join the alumni team](https://github.com/orgs/gdg-x/teams/alumni). Alternatively, they can [leave the organisation](https://github.com/settings/organizations).
 
-Contributors who were inactive for more than a year are contacted by the project maintainers and asked to retire.
+Contributors who were inactive for more than a year are contacted by the project maintainers and asked to retire. If the inactive contributor can't be reached the contributor is moved to the alumni team by one of the [GDG[x] admin organizers team](https://github.com/orgs/gdg-x/teams/og) members.
