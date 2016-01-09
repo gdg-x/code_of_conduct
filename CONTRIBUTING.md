@@ -124,16 +124,20 @@ from the main (upstream) repository:
 [js-style-guide]: http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
 
 ## <a name="members"></a> GDG[x] contributors
-Everybody is invite to dive into the code, explore, learn, add issues and send pull requests.
+Everybody is invited to dive into the code, explore, learn, open issues, and send pull requests.
 
 ### Teams
-Each project has a *team of contributors* that can merge pull requests. These team members should have a good understanding of the project to answer questions and comment on pull requests. These contributors are members of the corresponding github project team.
+Each project has a *team of contributors* that can merge pull requests. These team members should have a good understanding of the project to answer questions and review pull requests. These contributors are members of the corresponding github project team.
 
 One or two members are the *maintainers* of the project and publish releases. Maintainers are responsible for the road map and the state of the project in general.
 
 Maintainers are listed by name/github handle in the readme of the project.
 
 ### Inactive contributors
-Contributors can retire by [leaving the github project team](https://github.com/orgs/gdg-x/teams) and [join the alumni team](https://github.com/orgs/gdg-x/teams/alumni). Alternatively, they can [leave the organisation](https://github.com/settings/organizations).
+Contributors can retire by [leaving the github project team](https://github.com/orgs/gdg-x/teams) and [joining the alumni team](https://github.com/orgs/gdg-x/teams/alumni). Alternatively, they can [leave the organization](https://github.com/settings/organizations).
 
-Contributors who were inactive for more than a year are contacted by the project maintainers and asked to retire. If the inactive contributor can't be reached the contributor is moved to the alumni team by one of the [GDG[x] admin organizers team](https://github.com/orgs/gdg-x/teams/og) members.
+Contributors who are inactive for more than a year will be contacted by the project maintainers and asked if they can become active again or retire. 
+If the inactive contributor can't be reached the contributor is moved to the alumni team by one of the [GDG[x] admin organizers](https://github.com/orgs/gdg-x/teams/og) members.
+
+### Inactive maintainers
+Maintainers who are inactive for more than six months will be contacted by one of the GDG[x] admin organizers and ask whether they can become active again or retire (see inactive contributors). If they retire and no other maintainers can be found the project is deprecated.
