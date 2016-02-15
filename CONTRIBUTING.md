@@ -34,9 +34,11 @@ project.
 
 Projects are either active, unmaintained or deprecated.
 
-* "active" means that the project is under development and that releases are produced once a year. All projects that are not unmaintained or deprecated are active.
+* "active" means that the project is under development and that releases are produced at least once a year. All projects that are not unmaintained or deprecated are active.
 * "unmaintained" means that the project is no longer under development and that the last release can be used as stable version. The project's description on github has the prefix `[UNMAINTAINED]`.
 * "deprecated" means that the project is no longer under development and that the last release should not be used any more. the project's description on github has the prefix `[DEPRECATED]`.
+
+It is the responsibility of the maintainer to change the status of the project.
 
 ## <a name="submit"></a> Submission Guidelines
 
