@@ -115,14 +115,6 @@ from the main (upstream) repository:
     git pull --ff upstream master
     ```
 
-
-
-
-[coc]: https://github.com/gdg-x/code_of_conduct/blob/master/CONTRIBUTING.md
-[github]: https://github.com/gdg-x
-[pluspage]: https://google.com/+GDGXProject
-[js-style-guide]: http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
-
 ## <a name="members"></a> GDG[x] contributors
 Everybody is invited to dive into the code, explore, learn, open issues, and send pull requests.
 
@@ -141,3 +133,9 @@ If the inactive contributor can't be reached the contributor is moved to the alu
 
 ### Inactive maintainers
 Maintainers who are inactive for more than six months will be contacted by one of the GDG[x] admin organizers and ask whether they can become active again or retire (see inactive contributors). If they retire and no other maintainers can be found the project is deprecated.
+
+
+[coc]: https://github.com/gdg-x/code_of_conduct/blob/master/CONTRIBUTING.md
+[github]: https://github.com/gdg-x
+[pluspage]: https://google.com/+GDGXProject
+[js-style-guide]: http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
