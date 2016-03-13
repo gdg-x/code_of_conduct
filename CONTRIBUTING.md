@@ -125,7 +125,24 @@ from the main (upstream) repository:
     git pull --ff upstream master
     ```
 
+## <a name="members"></a> GDG[x] contributors
+Everybody is invited to dive into the code, explore, learn, open issues, and send pull requests.
 
+### Teams
+Each project has a *team of contributors* that can merge pull requests. These team members should have a good understanding of the project to answer questions and review pull requests. Contributors are members of the corresponding GitHub project team.
+
+One or two members are the *maintainers* of the project and publish releases. Maintainers are responsible for the _roadmap_, _milestones_, and the _state of the project_ in general. They _tag_ and _publish_ releases.
+
+Maintainers are listed by name and GitHub handle in the readme of the project.
+
+### Inactive contributors
+Contributors can retire by [leaving the GitHub project team](https://github.com/orgs/gdg-x/teams) and [joining the alumni team](https://github.com/orgs/gdg-x/teams/alumni). Alternatively, they can [leave the organization](https://github.com/settings/organizations).
+
+Contributors who are inactive for more than a year will be contacted by the project maintainers and asked if they can become active again or retire. 
+If the inactive contributor can't be reached the contributor is moved to the alumni team by one of the [GDG[x] admin organizers](https://github.com/orgs/gdg-x/teams/og).
+
+### Inactive maintainers
+Maintainers who are inactive for more than six months will be contacted by one of the GDG[x] admin organizers and asked whether they can become active again or retire (see inactive contributors). If they retire and no other maintainers can be found the project is marked [DEPRECATED].
 
 
 [coc]: https://github.com/gdg-x/code_of_conduct/blob/master/CONTRIBUTING.md
